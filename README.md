@@ -1,5 +1,7 @@
 TASK-1: UNDERSATNDING SEARCH ALGORITHMS: This task demonstrates how to perform Breadth-First Search (BFS) and Depth-First Search (DFS) on an undirected graph, including disconnected components. It uses a class-based Python implementation for clarity and scalability.
+
 Key Features:
+
 Graph is implemented using an adjacency list with defaultdict(list)
 Supports adding edges
 Includes:
